@@ -3,6 +3,9 @@
 # WireMask
 This program uses clmtrackr to track various vertices on a face and obtain the x y values of facial features. Using the x y values of these vertices, the program draws a line from one random vertex to another random vertex. This creates a mask similar to a wireframe of a face. This process is also repeated with the eyes and mouth in a different color. 
 
+## SIGNIFICANCE
+The purpose of the WireMask is an exploration of the idea of the "face" when veiwed by people, computers, and as a representation of identity. While we ourselves hold heavy sentiment into our perosnal identity, it cannot always be said that we hold the identity of others with as much importance. Much like the way a computer veiws a face, we can only interpret someones identity with our own imperfect perception. In that way, it can be said that this wireframe mask is a visualization of how we skew our perception of others. In the end we can only draw conclusions of a person, often lacking the finer details.
+
 ## INSTRUCTIONS  
 Simply run the code and look towards the camera. It will pick up your face and apply the mask to it. It may sometimes lose tracking or not track with 100% accuracy, this is just a limitation of the software.
 
