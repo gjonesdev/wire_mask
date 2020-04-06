@@ -1,2 +1,2 @@
 # WireMask
- Wire mask mad eusing p5.js
+ Wire mask made using p5.js
