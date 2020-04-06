@@ -8,7 +8,7 @@ Simply run the code and look towards the camera. It will pick up your face and a
 
 ## DEMO
 A video of the mask being demoed can be found here:
-(https://vimeo.com/user71344292/review/404790198/388f869f37)
+(https://vimeo.com/404790198)
 
 ## INITIAL CONCEPTS
 This project originally was focused on creating a mask that used seperate peices of the webcam input to either distort, duplicate, or censor parts of the face. These early concepts looked as such:
